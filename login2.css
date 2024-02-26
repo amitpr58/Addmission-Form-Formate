@@ -34,4 +34,22 @@ body{
 
 }
 
+button[type="submit"]{
+    background-color: #7c4caf;
+    color: white;
+    padding: 20px;
+    /* border: none; */
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 25px;
+    text-align: center;
+    display: flex;
+    font-size: large;
+  }
+
+  button[type="submit"]:hover, button[type="Cancel"]:hover {
+    background-color: #45a088;
+    text-align: center;
+  }
+
 
