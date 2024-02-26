@@ -1,0 +1,37 @@
+body{
+    
+    font-family: Arial, sans-serif;
+    background-color: #e9f1bb;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    /* width: 100%; */
+    margin: 10px;
+    padding: 20px;
+    font-size: medium;
+    line-height: 2;
+
+
+}
+
+.heading{
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: larger;
+}
+
+.Resume{
+    margin: 10px;
+    padding: 20px;
+    font-size: medium;
+    line-height: 2;
+    /* background-color: aqua; */
+    border-radius: 5px;
+
+}
+
+
